@@ -1,2 +1,2 @@
 # Machine-learning-numerical-problem
-In this project, Mnist was used to solve numerical problems.
+This project was developed in class at the Marchine learning bootcamp in 2024
